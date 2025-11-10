@@ -7,7 +7,7 @@
 
 ![ToDoList](https://socialify.git.ci/shahed2762004/ToDoList/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
-#### This web page is hosted [here!](https://tusharjustdoit.netlify.app/)
+#### This web page is hosted [here!](https://shahed2762004.github.io/To-Do-List-Web/)
 
 - View the local installation in the [CONTRUBUTING.md](https://github.com/shahed2762004/To-Do-List-Web.git/blob/master/CONTRIBUTING.md).
 
